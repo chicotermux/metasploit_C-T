@@ -12,6 +12,8 @@ $ git clone https://github.com/chicotermux/metasploit_C-T
 
 $ cd metasploit_C-T
 
+$ chmod 700 *
+
 $ bash install.sh o ./install.sh
 
 # Autor
